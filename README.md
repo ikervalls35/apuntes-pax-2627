@@ -3,6 +3,4 @@
 Iker Valls Jiménez
 
 **Índice**
-- Texto de prueba 1
-- Texto de prueba 2
-- Texto de prueba 3
+- Tema 1
